@@ -1,4 +1,4 @@
-# Senior Full Stack developer/React, Vue, Node, Python
+# Senior Full Stack developer/React, Vue, Node, Python/10+ years
 
 - Frontend: 
 React, Vue, Typescript, Javascript, Next.js, Bootstrap, MUI, Metronic UI, Semantic UI.
